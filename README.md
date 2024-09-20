@@ -1,4 +1,4 @@
-# Muko-Linux
+# Muko-Linux (WIP)
 Attemp to make Linux easier
 
 # Recommended Distro for beginner
